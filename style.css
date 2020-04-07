@@ -19,8 +19,21 @@ body {
 	text-align: center;
 }
 
-p{
+div h2 {
+	font-size: 18px;
+	font-weight: bold;
+	padding: 20px;
+}
+
+div h3 {
+	font-size: 18px;
+	font-weight: bold;
+	padding: 20px;
+}
+
+div p{
 	text-align: center;
+	padding: 10px;
 }
 
 #missao{
@@ -36,7 +49,7 @@ em strong {
 	padding: 20px;
 }
 
-ul{
+.beneficios ul{
 	display: inline-block;
 	vertical-align: top;
 	width: 20%;
